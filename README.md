@@ -37,4 +37,4 @@ node server.js
 
 Or, you can go to my live application:
 
-https://damp-eyrie-73162.herokuapp.com/
+https://uofu-11-note-taker.herokuapp.com/
