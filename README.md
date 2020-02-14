@@ -20,13 +20,12 @@
 
 ## Demo
 
-![Note Take App](./public/assets/imgs/note-taker-view)
+![Note Take App](./public/assets/imgs/note-taker-view.gif "Note Take App")
 
 ## Getting Started
 
 1. Clone the repo:
-
-https://github.com/saltamay/UofT_BootCamp_NoteTaker.git
+https://github.com/Braydon-Nelson/11-Note-Taker.git
 
 2. Install the dependencies:
 
@@ -38,4 +37,4 @@ node server.js
 
 Or, you can go to my live application:
 
-https://uoft-bootcamp-notetaker.herokuapp.com/
+https://damp-eyrie-73162.herokuapp.com/
