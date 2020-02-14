@@ -39,4 +39,6 @@ Or, you can go to my live application:
 
 https://damp-eyrie-73162.herokuapp.com/
 
-[go](https://damp-eyrie-73162.herokuapp.com/){:target="_blank"}
+[https://damp-eyrie-73162.herokuapp.com/](https://damp-eyrie-73162.herokuapp.com/){:target="_blank"}
+
+<a href="https://damp-eyrie-73162.herokuapp.com/" target="_blank">https://damp-eyrie-73162.herokuapp.com/</a>
