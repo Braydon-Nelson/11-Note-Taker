@@ -38,3 +38,5 @@ node server.js
 Or, you can go to my live application:
 
 https://damp-eyrie-73162.herokuapp.com/
+
+[go](https://damp-eyrie-73162.herokuapp.com/){:target="_blank"}
