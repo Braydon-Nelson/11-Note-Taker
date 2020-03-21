@@ -37,4 +37,4 @@ node server.js
 
 Or, you can go to my live application:
 
-https://uofu-11-note-taker.herokuapp.com/
+https://mighty-shore-00838.herokuapp.com/
